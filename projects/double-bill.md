@@ -2,8 +2,8 @@
 layout: post
 title: 'Double Bill: Fine China & A Perfect Bowl of Pho'
 ---
-### By Julie Phan and Nam Nguyen | Directed by Julie Phan & Gianni Sallese
-#### A Saigon Lotus & Ember Island Players Theatre Production | Made possible by the generous support of fu-GEN Theatre and Factory Theatre
+#### By Julie Phan and Nam Nguyen | Directed by Julie Phan & Gianni Sallese
+**A Saigon Lotus & Ember Island Players Theatre Production | Made possible by the generous support of fu-GEN Theatre and Factory Theatre**
 
 **A PERFECT BOWL OF PHỞ**
 
@@ -15,6 +15,6 @@ What do the phrases: ‘you should eat,’ ‘don’t stay out too late’ and �
 
 January 23 - February 10, 2019 at the Factory Theatre Studio (125 Bathurst St.)
 
-{% include image.html url="https://www.factorytheatre.ca/what-s-on/fugendoublebill/" image="projects/drama-fest/FineChina_Postcard_no text.png" %}
+{% include image.html url="https://www.factorytheatre.ca/what-s-on/fugendoublebill/" image="projects/double-bill/FineChina_Postcard_no text.png" %}
 
-{% include image.html url="https://www.factorytheatre.ca/what-s-on/fugendoublebill/" image="projects/drama-fest/bowl_of_pho_no text.png" %}
+{% include image.html url="https://www.factorytheatre.ca/what-s-on/fugendoublebill/" image="projects/double-bill/bowl_of_pho_no text.png" %}
