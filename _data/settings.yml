@@ -53,6 +53,7 @@ contact: >
 # Work Section
 
 projects:
+- {name: 'Double Bill: Fine China & A Perfect Bowl of Pho', folder: 'double-bill', file: 'projects/double-bill.html'}
 - {name: 'an other tries to speak: a theatrical mixtape', folder: 'drama-fest', file: 'projects/drama-fest.html'}
 - {name: 'Yellow Face', folder: 'yellow-face', file: 'projects/yellow-face.html'}
 #- {name: 'Project Two', folder: 'proj-2', file: 'projects/proj-2.html'}
