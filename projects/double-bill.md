@@ -2,6 +2,9 @@
 layout: post
 title: 'Double Bill: Fine China & A Perfect Bowl of Pho'
 ---
+
+{% include image.html url="https://www.factorytheatre.ca/what-s-on/fugendoublebill/" image="projects/double-bill/fuGEN_FineChina_Pho_Advert.png" %}
+
 #### By Julie Phan and Nam Nguyen | Directed by Julie Phan & Gianni Sallese
 **A Saigon Lotus & Ember Island Players Theatre Production | Made possible by the generous support of fu-GEN Theatre and Factory Theatre**
 
