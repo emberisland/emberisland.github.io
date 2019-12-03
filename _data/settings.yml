@@ -53,6 +53,7 @@ contact: >
 # Work Section
 
 projects:
+- {name: 'Sweeney Todd in Concert', folder: 'sweeney', file: 'projects/sweeney.html'}
 - {name: 'Double Bill: Fine China & A Perfect Bowl of Pho', folder: 'double-bill', file: 'projects/double-bill.html'}
 - {name: 'Statistics Remount', folder: 'statistics', file: 'projects/statistics.html'}
 - {name: 'an other tries to speak: a theatrical mixtape', folder: 'drama-fest', file: 'projects/drama-fest.html'}
